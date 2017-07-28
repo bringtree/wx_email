@@ -1,0 +1,7 @@
+[e-mail]
+sendEmail = XX
+receiveEmail = XX
+username = XX
+password = XX
+smtpPort = 25
+smtpSendServer  = XX
